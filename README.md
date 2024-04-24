@@ -18,7 +18,6 @@
       <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#screenshot">Screenshot</a></li>
       </ul>
     </li>
   </ol>
@@ -37,14 +36,10 @@ Web Seni is a comprehensive web application designed to serve as a platform for 
 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![PHP][PHP.com]][PHP-url]
 * [![MySQL][MySQL.com]][MySQL-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Screenshot
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
